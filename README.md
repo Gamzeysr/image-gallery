@@ -1,4 +1,29 @@
-## https://react-image-gallery-gamze.vercel.app/
+
+
+## https://react-image-gallery-gamze.vercel.app/  
+
+✨🎉🎉
+
+    
+
+    |----readme.md
+    SOLUTION
+    |----public
+         |----index.html
+    |----src
+         |----components
+              |----Picture.jsx
+         |----pages
+              |----Homepage.jsx
+          |----helper
+               |----data.js
+          |----styles
+               |----style.css
+          |----App.js
+          |----index.js
+    |----package.json
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
